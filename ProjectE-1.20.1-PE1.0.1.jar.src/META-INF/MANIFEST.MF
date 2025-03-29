@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: ProjectE
+Specification-Vendor: ProjectE
+Specification-Version: 1.0.1
+Implementation-Title: ProjectE
+Implementation-Version: 1.0.1
+Implementation-Vendor: ProjectE
+Implementation-Timestamp: 2023-11-26T04:12:49-0500
+Automatic-Module-Name: projecte
+

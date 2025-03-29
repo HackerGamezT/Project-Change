@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"equipment","key":{"D":{"tag":"forge:gems/diamond"},"M":{"item":"projecte:dark_matter"},"O":{"tag":"forge:obsidian"}},"pattern":["DOD","MDM","DOD"],"result":{"item":"projecte:gem_of_eternal_density"},"show_notification":true}
